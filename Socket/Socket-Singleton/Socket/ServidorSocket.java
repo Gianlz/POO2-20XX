@@ -77,7 +77,6 @@ public class ServidorSocket {
         }
     }
 
-    // Outros métodos relacionados ao servidor aqui...
 
     public static void main(String[] args) {
         ServidorSocket servidor = ServidorSocket.getInstance();
@@ -85,4 +84,3 @@ public class ServidorSocket {
     }
 }
 
-// Resto do código permanece inalterado
